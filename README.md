@@ -1,2 +1,1 @@
-# CBHuffman
-CB Huffman
+# File Zipper
